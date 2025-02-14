@@ -78,6 +78,7 @@ WHEN NOT MATCHED THEN
 
 ## Benefits 
 🔹 Optimized Performance for large datasets. Combines `INSERT`, `UPDATE` in one pass, reducing the need for multiple scans.
+
 🔹 Handles complex operations in a single statement, improving readability and maintainability.
 
 
