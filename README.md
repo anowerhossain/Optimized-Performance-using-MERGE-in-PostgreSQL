@@ -1,5 +1,3 @@
-# Optimized-Performance-using-`MERGE`-in-PostgreSQL 
-
 ![Alt text](https://github.com/anowerhossain/Optimized-Performance-using-MERGE-in-PostgreSQL/blob/main/Cover-2.jpg)
 The MERGE statement in PostgreSQL offers several key advantages over traditional UPDATE, INSERT, and DELETE operations. It simplifies complex operations and enhances performance, making it a highly efficient solution for syncing or merging data between tables.
 
